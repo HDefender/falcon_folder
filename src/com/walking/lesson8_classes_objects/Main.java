@@ -14,7 +14,7 @@ package com.walking.lesson8_classes_objects;
  * Конечные показатели счетчиков вывести в консоль.
  */
 public class Main {
-       public static void main(String[] args) {
+           public static void main(String[] args) {
         Counter calcHonest = new Counter("Wall", 0);
         Counter calcOdd = new Counter("Brick", 0);
 
