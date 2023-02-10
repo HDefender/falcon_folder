@@ -32,5 +32,5 @@ public class Main {
 
         System.out.println("Число четных чисел "+ calcHonest.counter);
         System.out.println("Число нечетных чисел "+ calcOdd.counter);
-        }
+        } 
 }
