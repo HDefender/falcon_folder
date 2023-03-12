@@ -22,7 +22,7 @@ public class Main {
             if (i % 2 == 0) {
                 calcHonest.counter++;
             } else
-                calcOdd.counter ++;
+                calcOdd.counter++;
         }
 
         System.out.println("Число четных чисел "+ calcHonest.counter);
